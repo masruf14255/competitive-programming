@@ -59,7 +59,7 @@ bool comp(const int& a,const int& b){return a>b;}
 
 int main()
 {
-	ll tc,t=1;
+	/*ll tc,t=1;
 	while(cin>>tc)
 	{
 		ll ar[tc];
@@ -88,5 +88,6 @@ int main()
 			else cout<<ar[high]<<endl;
 		}
 	}
-	return 0;
+	return 0;*/
+    cout<<"Bye World\n";
 }
